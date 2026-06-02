@@ -1,0 +1,20 @@
+llms-full.txt content:
+# Abdulkodir Faxriddinov — Developer Portfolio
+
+## Identity
+- Full name: Abdulkodir Faxriddinov (also: Abduqodir Faxriddinov, moy-kanal-17)
+- Born: April 22, 2011
+- Location: Tashkent, Uzbekistan
+- Role: Backend & Fullstack Developer
+
+## Skills
+Node.js, NestJS, React, TypeScript, PostgreSQL, MongoDB, Socket.IO, JWT, Python, Telegram Bots, AI/LLM (Gemini, g4f), Sequelize ORM, REST API, WebSocket
+
+## Projects
+1. Telegram Clone Chat — NestJS + Socket.IO + React real-time messenger
+2. Kutube — Video hosting platform (NestJS + PostgreSQL)
+3. Online Market — Marketplace (React + NestJS + PostgreSQL + Sequelize)
+4. Jarvis AI — Python voice assistant with LLM integration
+
+## Contact
+- Email: 17abduqodir17@gmail.com
